@@ -1,0 +1,13 @@
+{
+  "modal": {
+    "collection": {
+      "title": "New Collection",
+      "form": {
+        "name": "Name",
+        "icon": "Icon"
+      }
+    },
+    "item": {},
+    "image": {}
+  }
+}

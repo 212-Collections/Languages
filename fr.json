@@ -1,0 +1,14 @@
+{
+    "modal": {
+      "collection": {
+        "title": "Nouvelle Collection",
+        "form": {
+          "name": "Nom",
+          "icon": "Icône"
+        }
+      },
+      "item": {},
+      "image": {}
+    }
+  }
+  
