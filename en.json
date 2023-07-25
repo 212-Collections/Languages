@@ -1,4 +1,20 @@
 {
+  "page": {
+    "login": {
+      "type": {
+        "classic": "New login",
+        "direct": "Direct login"
+      },
+      "form": {
+        "username": "Username",
+        "password": "Password",
+        "database": "Database name",
+        "cluster": "Cluster url",
+        "submit": "Login"
+      },
+      "guide": "No account? Follow the instructions here"
+    }
+  },
   "modal": {
     "collection": {
       "title": "New Collection",
