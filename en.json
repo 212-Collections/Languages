@@ -43,6 +43,15 @@
           "element": "Elements"
         }
       }
+    },
+    "collection": {
+      "new": "New element",
+      "edit": "Edit collection",
+      "delete": "Delete collection"
+    },
+    "popup": {
+      "title": "Delete collection",
+      "message": "Are you sure you want to delete this collection"
     }
   },
   "modal": {
