@@ -51,10 +51,7 @@
     },
     "item": {},
     "image": {
-      "title": {
-        "new": "New icon",
-        "edit": "Edit icon"
-      },
+      "title": "Edit icon",
       "form": {
         "render": {
           "title": "Render type",
