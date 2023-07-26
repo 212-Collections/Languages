@@ -28,5 +28,10 @@
     },
     "item": {},
     "image": {}
+  },
+  "global": {
+    "form": {
+      "required": "ᛁᛊ ᚱᛖᚲᚢᛁᚱᛖᛞ"
+    }
   }
 }
