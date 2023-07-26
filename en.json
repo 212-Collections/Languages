@@ -44,9 +44,9 @@
         },
         "about": {
           "title": "About",
-          "version": "Version",
-          "check": "Check for new version",
-          "update": "Download latest release"
+          "version": "Current version",
+          "check": "Check update",
+          "update": "New version available"
         }
       }
     },
