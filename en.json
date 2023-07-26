@@ -13,6 +13,24 @@
         "submit": "Login"
       },
       "guide": "No account? Follow the instructions here"
+    },
+    "home": {
+      "title": "Home",
+      "logged": "Connected as",
+      "logout": "Logout",
+      "tabs": {
+        "settings": {
+          "title": "Settings",
+          "theme": "Default theme",
+          "view": "Default item view",
+          "language": "Language"
+        },
+        "overview": {
+          "title": "Collections overview",
+          "open": "Open",
+          "element": "Elements"
+        }
+      }
     }
   },
   "modal": {
