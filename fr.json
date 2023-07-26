@@ -1,14 +1,29 @@
 {
-    "modal": {
-      "collection": {
-        "title": "Nouvelle Collection",
-        "form": {
-          "name": "Nom",
-          "icon": "Icône"
-        }
+  "page": {
+    "login": {
+      "type": {
+        "classic": "Nouvelle connexion",
+        "direct": "Connexion directe"
       },
-      "item": {},
-      "image": {}
+      "form": {
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "database": "Nom de la base de données",
+        "cluster": "URL du cluster",
+        "submit": "Connexion"
+      },
+      "guide": "Pas de compte ? Suivez les instructions ici"
     }
+  },
+  "modal": {
+    "collection": {
+      "title": "Nouvelle Collection",
+      "form": {
+        "name": "Nom",
+        "icon": "Icône"
+      }
+    },
+    "item": {},
+    "image": {}
   }
-  
+}
