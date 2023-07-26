@@ -35,7 +35,7 @@
   },
   "modal": {
     "collection": {
-      "title": "New Collection",
+      "title": { "new": "New Collection", "edit": "Edit Collection" },
       "form": {
         "name": "Name",
         "icon": "Icon"
