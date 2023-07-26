@@ -50,7 +50,33 @@
       }
     },
     "item": {},
-    "image": {}
+    "image": {
+      "title": {
+        "new": "ᚾᛖᚹ ᛁᚲᛟᚾ",
+        "edit": "ᛖᛞᛁᛏ ᛁᚲᛟᚾ"
+      },
+      "form": {
+        "render": {
+          "title": "ᚱᛖᚾᛞᛖᚱ ᛏᛁᛚᛖ",
+          "tooltip": "ᚦᛖ ᛏᛟᛁᛖ ᚢᚱ ᛏᚺᛖ ᚱᛖᚾᛞᛖᚱ",
+          "pixelated": "ᛈᛁᛚᛖᚨᛏᛖᛞ",
+          "smooth": "ᛋᛗᛟᚢᛏᚺ"
+        },
+        "border": {
+          "title": "ᛒᛟᚱᛞᛖᚱ ᛏᛁᛚᛖ",
+          "tooltip": "ᚦᛖ ᛏᛟᛁᛖ ᚢᚱ ᛏᚺᛖ ᛒᛟᚱᛞᛖᚱ",
+          "round": "ᚱᛟᚢᚾᛞ",
+          "rounded": "ᚱᚢᚾᛞᛖᛞ",
+          "square": "ᛋᚳᚢᚱᛖ"
+        }
+      },
+      "menu": {
+        "upload": { "title": "ᚢᛚᛈᛚᛟᛏ", "submit": "ᚳᛚᛁᚲ ᛏᛟ ᚢᛚᛈᛚᛟᛏ" },
+        "url": { "title": "ᚠᚱᛟᛗ ᚢᛚᛈᛚᛟᛏ", "placeholder": "URL" },
+        "emoji": { "title": "ᛖᛗᛟᛁ", "submit": "ᚳᚺᛟᛚᛖᛋ ᛖᛗᛟᛁ" },
+        "color": { "title": "ᚳᛟᛚᚢᚱ" }
+      }
+    }
   },
   "global": {
     "form": {
