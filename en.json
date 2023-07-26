@@ -41,6 +41,12 @@
           "title": "Collections overview",
           "open": "Open",
           "element": "Elements"
+        },
+        "about": {
+          "title": "About",
+          "version": "Version",
+          "check": "Check for new version",
+          "update": "Download latest release"
         }
       }
     },
