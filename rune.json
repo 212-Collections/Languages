@@ -69,7 +69,7 @@
       },
       "menu": {
         "upload": { "title": "ᚢᛚᛈᛚᛟᛏ", "submit": "ᚳᛚᛁᚲ ᛏᛟ ᚢᛚᛈᛚᛟᛏ" },
-        "url": { "title": "ᚠᚱᛟᛗ ᚢᛚᛈᛚᛟᛏ", "placeholder": "URL" },
+        "url": { "title": "ᚠᚱᛟᛗ ᚢᛚᛈᛚᛟᛏ", "placeholder": "ᚢᚱᛚ" },
         "emoji": { "title": "ᛖᛗᛟᛁ", "submit": "ᚳᚺᛟᛚᛖᛋ ᛖᛗᛟᛁ" },
         "color": { "title": "ᚳᛟᛚᚢᚱ" }
       }
