@@ -47,6 +47,11 @@
   "global": {
     "form": {
       "required": "is required"
+    },
+    "modal": {
+      "create": "Create",
+      "cancel": "Cancel",
+      "reset": "Reset"
     }
   }
 }
