@@ -61,6 +61,10 @@
           "message": "Are you sure you want to delete this item"
         }
       }
+    },
+    "search": {
+      "open": "Collection page",
+      "check": "Check all"
     }
   },
   "modal": {
