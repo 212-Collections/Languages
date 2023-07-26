@@ -10,25 +10,221 @@
         "password": "Mot de passe",
         "database": "Nom de la base de données",
         "cluster": "URL du cluster",
-        "submit": "Connexion"
+        "submit": "Se connecter"
       },
-      "guide": "Pas de compte ? Suivez les instructions ici"
+      "guide": "Pas de compte ? Suivez les instructions ici",
+      "popup": {
+        "title": "Supprimer le compte",
+        "message": "Êtes-vous sûr de vouloir supprimer ce compte ?"
+      }
+    },
+    "home": {
+      "title": "Accueil",
+      "logged": "Connecté en tant que",
+      "logout": "Déconnexion",
+      "tabs": {
+        "settings": {
+          "title": "Paramètres",
+          "theme": {
+            "title": "Thème par défaut",
+            "light": "Clair",
+            "dark": "Sombre"
+          },
+          "view": {
+            "title": "Vue d'élément par défaut",
+            "card": "Carte",
+            "article": "Article"
+          },
+          "language": { "title": "Langue" }
+        },
+        "overview": {
+          "title": "Vue d'ensemble des collections",
+          "open": "Ouvrir",
+          "element": "Éléments"
+        },
+        "about": {
+          "title": "À propos",
+          "version": "Version actuelle",
+          "check": "Vérifier les mises à jour",
+          "update": "Nouvelle version disponible"
+        }
+      }
+    },
+    "collection": {
+      "new": "Nouvel élément",
+      "edit": "Modifier la collection",
+      "delete": "Supprimer la collection",
+      "popup": {
+        "title": "Supprimer la collection",
+        "message": "Êtes-vous sûr de vouloir supprimer cette collection ?"
+      },
+      "item": {
+        "new": "Nouvel élément",
+        "edit": "Modifier l'élément",
+        "delete": "Supprimer l'élément",
+        "popup": {
+          "title": "Supprimer l'élément",
+          "message": "Êtes-vous sûr de vouloir supprimer cet élément ?"
+        }
+      }
+    },
+    "search": {
+      "open": "Page de la collection",
+      "check": "Tout vérifier"
     }
   },
   "modal": {
     "collection": {
-      "title": "Nouvelle Collection",
+      "title": {
+        "new": "Nouvelle Collection",
+        "edit": "Modifier la collection"
+      },
       "form": {
         "name": "Nom",
         "icon": "Icône"
       }
     },
-    "item": {},
-    "image": {}
+    "item": {
+      "title": { "new": "Nouvel élément", "edit": "Modifier l'élément" },
+      "form": {
+        "title": { "label": "Titre", "tooltip": "Titre de l'élément" },
+        "icon": { "label": "Icône", "tooltip": "Une icône pour l'élément" },
+        "version": { "label": "Version", "tooltip": "Spécifier une version" },
+        "link": {
+          "label": "Lien",
+          "tooltip": "Lien URL pour l'élément, récupérer certaines données à partir de l'URL automatiquement en cliquant sur le bouton de téléchargement"
+        },
+        "color1": { "label": " ", "tooltip": "Spécifier une couleur" },
+        "color2": { "label": " ", "tooltip": "Spécifier une couleur" },
+        "description": {
+          "label": "Description",
+          "tooltip": "texte illimité, le format markdown est pris en charge"
+        },
+        "image": {
+          "label": "Image",
+          "tooltip": "Vignette pour représenter l'élément"
+        },
+        "tags": {
+          "label": "Tags",
+          "tooltip": "Quelques mots-clés pour l'élément"
+        },
+        "date": {
+          "label": "Date",
+          "tooltip": "Spécifier une date pour l'élément"
+        }
+      }
+    },
+    "image": {
+      "title": { "icon": "Modifier l'icône", "image": "Modifier l'image" },
+      "form": {
+        "render": {
+          "title": "Type de rendu",
+          "tooltip": "Le type de rendu",
+          "pixelated": "Pixelisé",
+          "smooth": "Lisse"
+        },
+        "border": {
+          "title": "Type de bordure",
+          "tooltip": "Le type de bordure",
+          "round": "arrondi",
+          "rounded": "aux coins arrondis",
+          "square": "carré"
+        }
+      },
+      "menu": {
+        "upload": {
+          "title": "Télécharger",
+          "submit": "Cliquez pour télécharger",
+          "error": {
+            "size": "L'image doit être inférieure à 2 Mo !",
+            "type": "Vous ne pouvez télécharger que des fichiers JPG/PNG !"
+          }
+        },
+        "url": { "title": "À partir de l'URL", "placeholder": "URL" },
+        "emoji": { "title": "Emoji", "submit": "Choisir un Emoji" },
+        "color": { "title": "Couleur" }
+      }
+    }
   },
   "global": {
     "form": {
       "required": "est requis"
+    },
+    "modal": {
+      "create": "Créer",
+      "cancel": "Annuler",
+      "reset": "Réinitialiser",
+      "update": "Mettre à jour"
+    },
+    "popup": {
+      "ok": "Ok",
+      "cancel": "Annuler"
+    }
+  },
+  "message": {
+    "login": {
+      "success": {
+        "title": "Authentification réussie",
+        "content": "Vous êtes maintenant connecté en tant que"
+      },
+      "error": {
+        "title": "Erreur lors de l'authentification"
+      }
+    },
+    "logout": {
+      "success": {
+        "title": "Déconnexion réussie",
+        "content": "Vous vous êtes déconnecté avec succès"
+      },
+      "error": {
+        "title": "Erreur lors de la déconnexion"
+      }
+    },
+    "settings": {
+      "fetch": {
+        "error": {
+          "title": "Erreur lors de la récupération des paramètres"
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Erreur lors de la mise à jour des paramètres"
+        }
+      }
+    },
+    "item": {
+      "new": {
+        "success": {
+          "title": "Nouveau",
+          "content": "a été créé"
+        },
+        "error": { "title": "Erreur lors de la création de nouveau" }
+      },
+      "update": {
+        "success": {
+          "title": "Mise à jour",
+          "content": "a été mis à jour"
+        },
+        "error": { "title": "Erreur lors de la mise à jour" }
+      },
+      "delete": {
+        "success": {
+          "title": "Suppression",
+          "content": "a été supprimé"
+        },
+        "error": { "title": "Erreur lors de la suppression" }
+      },
+      "sort": {
+        "success": {
+          "title": "Tri",
+          "content": "Tri terminé"
+        },
+        "error": { "title": "Erreur lors du tri" }
+      },
+      "type": {
+        "item": "élément",
+        "collection": "collection"
+      }
     }
   }
 }
