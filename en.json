@@ -50,7 +50,33 @@
       }
     },
     "item": {},
-    "image": {}
+    "image": {
+      "title": {
+        "new": "New icon",
+        "edit": "Edit icon"
+      },
+      "form": {
+        "render": {
+          "title": "Render type",
+          "tooltip": "The type of the render",
+          "pixelated": "Pixelated",
+          "smooth": "Smooth"
+        },
+        "border": {
+          "title": "Border type",
+          "tooltip": "The type of border",
+          "round": "round",
+          "rounded": "rounded",
+          "square": "square"
+        }
+      },
+      "menu": {
+        "upload": { "title": "Upload", "submit": "Click to Upload" },
+        "url": { "title": "From URL", "placeholder": "URL" },
+        "emoji": { "title": "Emoji", "submit": "Choose Emoji" },
+        "color": { "title": "Color" }
+      }
+    }
   },
   "global": {
     "form": {
