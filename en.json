@@ -21,9 +21,17 @@
       "tabs": {
         "settings": {
           "title": "Settings",
-          "theme": "Default theme",
-          "view": "Default item view",
-          "language": "Language"
+          "theme": {
+            "title": "Default theme",
+            "light": "Light",
+            "dark": "Dark"
+          },
+          "view": {
+            "title": "Default item view",
+            "card": "Card",
+            "article": "Article"
+          },
+          "language": { "title": "Language" }
         },
         "overview": {
           "title": "Collections overview",
