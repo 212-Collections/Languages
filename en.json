@@ -47,11 +47,20 @@
     "collection": {
       "new": "New element",
       "edit": "Edit collection",
-      "delete": "Delete collection"
-    },
-    "popup": {
-      "title": "Delete collection",
-      "message": "Are you sure you want to delete this collection"
+      "delete": "Delete collection",
+      "popup": {
+        "title": "Delete collection",
+        "message": "Are you sure you want to delete this collection"
+      },
+      "item": {
+        "new": "New item",
+        "edit": "Edit item",
+        "delete": "Delete item",
+        "popup": {
+          "title": "Delete item",
+          "message": "Are you sure you want to delete this item"
+        }
+      }
     }
   },
   "modal": {
