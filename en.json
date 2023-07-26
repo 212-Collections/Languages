@@ -157,5 +157,71 @@
       "ok": "Ok",
       "cancel": "Cancel"
     }
+  },
+  "message": {
+    "login": {
+      "success": {
+        "title": "Successfully authenticated",
+        "content": "You are now logged as"
+      },
+      "error": {
+        "title": "Error authenticating"
+      }
+    },
+    "logout": {
+      "success": {
+        "title": "Successfully logged out",
+        "content": "You have successfully logged out"
+      },
+      "error": {
+        "title": "Error logging out"
+      }
+    },
+    "settings": {
+      "fetch": {
+        "error": {
+          "title": "Error fetching settings"
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Error updating settings"
+        }
+      }
+    },
+    "item": {
+      "new": {
+        "success": {
+          "title": "New",
+          "content": "has been created"
+        },
+        "error": { "title": "Error while creating new" }
+      },
+      "update": {
+        "success": {
+          "title": "Update",
+          "content": "has been updated"
+        },
+        "error": { "title": "Error while updating" }
+      },
+      "delete": {
+        "success": {
+          "title": "Delete",
+          "content": "has been deleted"
+        },
+        "error": { "title": "Error while deleting" }
+      },
+      "sort": {
+        "success": {
+          "title": "Sort",
+          "content": "Sorting complete"
+        },
+        "error": { "title": "Error while sorting" }
+      },
+      "type": {
+        "item": "item",
+        "collection": "collection"
+      }
+    }
   }
 }
