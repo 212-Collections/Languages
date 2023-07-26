@@ -73,7 +73,7 @@
           "label": "Tags",
           "tooltip": "Some keywords for the item"
         },
-        "Date": {
+        "date": {
           "label": "Date",
           "tooltip": "Specify a date for the item"
         }
