@@ -59,8 +59,8 @@
           "label": "Link",
           "tooltip": "URL link for the item, retrieve certain data from the URL automatically by clicking on the download button"
         },
-        "color1": { "label": "", "tooltip": "Specify one color" },
-        "color2": { "label": "", "tooltip": "Specify one color" },
+        "color1": { "label": " ", "tooltip": "Specify one color" },
+        "color2": { "label": " ", "tooltip": "Specify one color" },
         "description": {
           "label": "Description",
           "tooltip": "limitless text, markdown is supported"
