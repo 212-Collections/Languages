@@ -70,7 +70,7 @@
     },
     "search": {
       "open": "Page de la collection",
-      "check": "Tout vérifier"
+      "check": "Tout cocher"
     }
   },
   "modal": {
@@ -126,9 +126,9 @@
         "border": {
           "title": "Type de bordure",
           "tooltip": "Le type de bordure",
-          "round": "arrondi",
-          "rounded": "aux coins arrondis",
-          "square": "carré"
+          "round": "Arrondi",
+          "rounded": "Aux coins arrondis",
+          "square": "Carré"
         }
       },
       "menu": {
