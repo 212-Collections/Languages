@@ -72,7 +72,7 @@
       }
     },
     "item": {
-      "title": { "new": "New item", "image": "Edit item" },
+      "title": { "new": "New item", "edit": "Edit item" },
       "form": {
         "title": { "label": "Title", "tooltip": "Title of the item" },
         "icon": { "label": "Icon", "tooltip": "An icon for the item" },
