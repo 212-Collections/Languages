@@ -12,7 +12,11 @@
         "cluster": "Cluster url",
         "submit": "Login"
       },
-      "guide": "No account? Follow the instructions here"
+      "guide": "No account? Follow the instructions here",
+      "popup": {
+        "title": "Unregister the account",
+        "message": "Are you sure you want to unregister this account?"
+      }
     },
     "home": {
       "title": "Home",
@@ -120,6 +124,14 @@
       "cancel": "Cancel",
       "reset": "Reset",
       "update": "Update"
+    },
+    "popup": {
+      "message": {
+        "delete": "Are you sure you want to delete",
+        "unregister": "Are you sure you want to unregister this account?"
+      },
+      "ok": "Ok",
+      "cancel": "Cancel"
     }
   }
 }
