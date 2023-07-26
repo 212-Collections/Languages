@@ -50,8 +50,8 @@
       }
     },
     "item": {},
-    "icon": {
-      "title": "ᛖᛞᛁᛏ ᛁᚲᛟᚾ",
+    "image": {
+      "title": { "icon": "ᛖᛞᛁᛏ ᛁᚲᛟᚾ", "image": "ᛖᛞᛁᛏ ᛁᛗᚨᚷᛖ" },
       "form": {
         "render": {
           "title": "ᚱᛖᚾᛞᛖᚱ ᛏᛁᛚᛖ",

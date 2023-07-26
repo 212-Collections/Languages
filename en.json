@@ -50,8 +50,8 @@
       }
     },
     "item": {},
-    "icon": {
-      "title": "Edit icon",
+    "image": {
+      "title": { "icon": "Edit icon", "image": "Edit image" },
       "form": {
         "render": {
           "title": "Render type",
