@@ -49,7 +49,36 @@
         "icon": "Icon"
       }
     },
-    "item": {},
+    "item": {
+      "title": { "new": "New item", "image": "Edit item" },
+      "form": {
+        "title": { "label": "Title", "tooltip": "Title of the item" },
+        "icon": { "label": "Icon", "tooltip": "An icon for the item" },
+        "version": { "label": "Version", "tooltip": "Specify a version" },
+        "link": {
+          "label": "Link",
+          "tooltip": "URL link for the item, retrieve certain data from the URL automatically by clicking on the download button"
+        },
+        "color1": { "label": "", "tooltip": "Specify one color" },
+        "color2": { "label": "", "tooltip": "Specify one color" },
+        "description": {
+          "label": "Description",
+          "tooltip": "limitless text, markdown is supported"
+        },
+        "image": {
+          "label": "Image",
+          "tooltip": "Thumbnail to represent the item"
+        },
+        "tags": {
+          "label": "Tags",
+          "tooltip": "Some keywords for the item"
+        },
+        "Date": {
+          "label": "Date",
+          "tooltip": "Specify a date for the item"
+        }
+      }
+    },
     "image": {
       "title": { "icon": "Edit icon", "image": "Edit image" },
       "form": {
@@ -68,7 +97,14 @@
         }
       },
       "menu": {
-        "upload": { "title": "Upload", "submit": "Click to Upload" },
+        "upload": {
+          "title": "Upload",
+          "submit": "Click to Upload",
+          "error": {
+            "size": "Image must smaller than 2MB!",
+            "type": "You can only upload JPG/PNG file!"
+          }
+        },
         "url": { "title": "From URL", "placeholder": "URL" },
         "emoji": { "title": "Emoji", "submit": "Choose Emoji" },
         "color": { "title": "Color" }
@@ -82,7 +118,8 @@
     "modal": {
       "create": "Create",
       "cancel": "Cancel",
-      "reset": "Reset"
+      "reset": "Reset",
+      "update": "Update"
     }
   }
 }
