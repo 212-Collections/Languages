@@ -32,6 +32,7 @@
           },
           "view": {
             "title": "Vue d'élément par défaut",
+            "default": "Par défaut",
             "card": "Carte",
             "article": "Article"
           },

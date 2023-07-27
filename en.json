@@ -32,6 +32,7 @@
           },
           "view": {
             "title": "Default item view",
+            "default": "Default",
             "card": "Card",
             "article": "Article"
           },
