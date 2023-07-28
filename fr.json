@@ -11,7 +11,7 @@
         "database": "Nom de la base de données",
         "cluster": "URL du cluster",
         "submit": "Se connecter",
-        "demo": "Essayer le mode démo"
+        "demo": "Essayer en mode démo"
       },
       "guide": "Pas de compte ? Suivez les instructions ici",
       "popup": {

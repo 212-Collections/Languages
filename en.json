@@ -11,7 +11,7 @@
         "database": "Database name",
         "cluster": "Cluster url",
         "submit": "Login",
-        "demo": "Try Demo Mode"
+        "demo": "Try it in demo mode"
       },
       "guide": "No account? Follow the instructions here",
       "popup": {
