@@ -10,7 +10,8 @@
         "password": "Mot de passe",
         "database": "Nom de la base de données",
         "cluster": "URL du cluster",
-        "submit": "Se connecter"
+        "submit": "Se connecter",
+        "demo": "Essayer le mode démo"
       },
       "guide": "Pas de compte ? Suivez les instructions ici",
       "popup": {
