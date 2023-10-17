@@ -131,6 +131,10 @@
           "round": "Arrondi",
           "rounded": "Aux coins arrondis",
           "square": "Carré"
+        },
+        "background": {
+          "title": "Couleur de fond",
+          "tooltip": "Une couleur en arrière-plan"
         }
       },
       "menu": {
